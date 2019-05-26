@@ -1,0 +1,39 @@
+body{
+	position: relative;
+	height: 100vh;
+	margin: 0;
+	background-image:url("https://images.techhive.com/images/article/2016/03/laptop-at-night-100650192-large.jpg"); 
+	background-size: cover;
+	background-position: center;
+	
+}
+
+.container {
+	
+	
+}
+
+h1 {
+	text-align: center;
+	position: absolute;
+	top: 20%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	font-family: cursive;
+	color: white;
+}
+
+button, .button {
+	width: 200px;	
+	position: absolute;
+	top: 65%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	font-family: cursive;
+	
+
+
+}
+
+
+
